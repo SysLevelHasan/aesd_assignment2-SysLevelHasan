@@ -1,6 +1,6 @@
 /*
  * File: writer.c
- * Author: Hasan
+ * Author: Syed Hasan Askari Rizvi
  * Date: 2025-09-09
  * Description: Writes a string to a file and logs actions using syslog.
  */
